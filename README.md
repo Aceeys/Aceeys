@@ -24,21 +24,6 @@ approach: Somehow, It works
 status: Under development
 ```
 
-### A LITTLE SOMETHING
-
-<p align="center">
-  <samp>Quietly working on something.</samp>
-</p>
-
-<p align="center">
-  <i>Not everything needs to be figured out.</i>
-</p>
-
-<p align="center">
-  <br>
-  <code>less noise. more substance.</code>
-</p>
-
 <hr>
 
 ### 03 / CURRENTLY
