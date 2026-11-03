@@ -1,35 +1,22 @@
-```{=html}
-<h1 align="center">
-```
-J A N S S E N
-```{=html}
-</h1>
-```
-```{=html}
+<h1 align="center">J A N S S E N</h1>
+
 <hr>
-```
-```{=html}
+
 <p align="center">
-```
-`<sub>`{=html}NO IDEA. JUST COMMITTING.`</sub>`{=html}
-```{=html}
+  <sub>NO IDEA. JUST COMMITTING.</sub>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<code>`{=html}somewhere between logic and chaos`</code>`{=html}
-`<br>`{=html} `<i>`{=html}Figuring things out, one mistake at a
-time.`</i>`{=html}
-```{=html}
+  <code>somewhere between logic and chaos</code>
+  <br>
+  <i>Figuring things out, one mistake at a time.</i>
 </p>
-```
-```{=html}
+
 <hr>
-```
+
 ### 01 / INTRODUCTION
 
-``` yaml
+```yaml
 name: Pierce Janssen
 currently: Broke
 interests: Scented Alcohol
@@ -39,44 +26,32 @@ status: Under development
 
 ### A LITTLE SOMETHING
 
-```{=html}
 <p align="center">
-```
-`<samp>`{=html}Quietly working on something.`</samp>`{=html}
-```{=html}
+  <samp>Quietly working on something.</samp>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<i>`{=html}Not everything needs to be figured out.`</i>`{=html}
-```{=html}
+  <i>Not everything needs to be figured out.</i>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<code>`{=html}less noise. more substance.`</code>`{=html}
-```{=html}
+  <br>
+  <code>less noise. more substance.</code>
 </p>
-```
-```{=html}
+
 <hr>
-```
+
 ### 03 / CURRENTLY
 
--   Making mistakes with confidence.
--   Quietly overcomplicating simple things.
--   Progressing, allegedly.
--   Excellence is loading. Please wait.
+- Making mistakes with confidence.
+- Quietly overcomplicating simple things.
+- Progressing, allegedly.
+- Excellence is loading. Please wait.
 
-```{=html}
 <hr>
-```
-```{=html}
+
+<br>
+
 <p align="center">
-```
-Well, this is an unnecessary amount of curiosity.
-```{=html}
+  Well, this is an unnecessary amount of curiosity.
 </p>
-```
