@@ -1,4 +1,5 @@
-# JANSSEN
+```html
+<h1 align="center">JANSSEN</h1>
 
 <p align="center">
   NO IDEA. JUST COMMITTING.
@@ -8,7 +9,7 @@
 
 ### `somewhere between logic and chaos`
 
-*Figuring things out, one mistake at a time.*
+<i>Figuring things out, one mistake at a time.</i>
 
 </p>
 
@@ -24,7 +25,7 @@ approach: Somehow, It works
 status: Under development
 ```
 
-### 02 / A LITTLE SOMETHING
+### A LITTLE SOMETHING
 
 <p align="center">
   <code>Currently exploring, learning, and building.</code>
@@ -48,3 +49,4 @@ status: Under development
 <p align="center">
   <sub>Well, this is an unnecessary amount of curiosity.</sub>
 </p>
+```
