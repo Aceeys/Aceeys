@@ -56,7 +56,7 @@ status: Under development
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:18181b,100:09090b&height=2&section=footer" width="100%" />
 
-*You found my profile. Interesting.*
+Well, this is an unnecessary amount of curiosity.
 
 <sub>© ACEEYS — nothing special, just getting started.</sub>
 
