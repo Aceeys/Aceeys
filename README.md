@@ -1,65 +1,65 @@
  <div align="center">
 
-# ACEEYS
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:09090b,50:27272a,100:18181b&text=ACEEYS&fontColor=e4e4e7&fontSize=65&fontAlignY=50&animation=fadeIn&stroke=71717a" width="100%" />
 
-`probably debugging something right now`
+### `aspiring developer • professional problem creator`
 
-*I turn coffee into code and errors into character development.*
+*Making things work. Sometimes intentionally.*
 
-[GitHub](https://github.com/Aceeys) · [Repositories](https://github.com/Aceeys?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-18181b?style=flat-square&logo=github&logoColor=white)](https://github.com/Aceeys)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aceeys&color=52525b&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Aceeys)
 
 </div>
 
 ---
 
-### // who even am i?
+### 01 / ABOUT
 
-```js
-const aceeys = {
-    education: "BSIT Student",
-    role: "Aspiring Developer",
-    interests: [
-        "Web Development",
-        "Software Development",
-        "UI/UX Design"
-    ],
-    currently: "Trying to make things work.",
-    status: "It works. Don't touch it."
-};
+```yaml
+name: Aceeys
+occupation: BSIT Student
+location: Philippines
+interests:
+  - Software Development
+  - Web Development
+  - UI/UX Design
+currently: Learning and building things
+mood: Depends on the compiler
 ```
 
-### // tech stack
+> "I don't have bugs. I have undocumented features."
 
-*Tools I use to create problems and occasionally solve them.*
+### 02 / TECHNOLOGIES
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,cs,mysql,git,github,vscode,figma&theme=dark" />
 </p>
 
-### // github activity
-
-*Proof that I sometimes leave my comfort zone and open my code editor.*
+### 03 / GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aceeys&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aceeys&show_icons=true&hide_border=true&bg_color=09090b&title_color=e4e4e7&text_color=a1a1aa&icon_color=71717a" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aceeys&layout=compact&theme=github_dark&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aceeys&layout=compact&hide_border=true&bg_color=09090b&title_color=e4e4e7&text_color=a1a1aa" />
 
 </div>
 
-### // current status
+### 04 / CURRENTLY
 
-- Learning things I probably should have learned yesterday.
-- Building projects one error at a time.
-- Searching for bugs that were caused by me.
+- Learning new technologies.
+- Building projects and improving my skills.
+- Debugging code I wrote five minutes ago.
+- Pretending everything is under control.
 
 ---
 
 <div align="center">
 
-`while(alive) { keepLearning(); }`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:18181b,100:09090b&height=2&section=footer" width="100%" />
 
-*Thanks for stalking my profile. At least someone is interested in my code.*
+`SYSTEM STATUS: OPERATIONAL (probably)`
+
+*Thanks for visiting. Don't expect production-ready code.*
 
 </div>
