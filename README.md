@@ -14,9 +14,9 @@
 
 ```yaml
 name: Pierce Janssen
-currently: BSIT Student
-interests: Building things
-approach: Learn by doing
+currently: Broke
+interests: Scented Alcohol
+approach: Somehow, It works
 status: Under development
 ```
 
