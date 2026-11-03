@@ -26,7 +26,7 @@ status: Under development
 
 <hr>
 
-### 03 / CURRENTLY
+### 02 / CURRENTLY
 
 - Making mistakes with confidence.
 - Quietly overcomplicating simple things.
