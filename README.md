@@ -16,7 +16,7 @@
 ### 01 / ABOUT
 
 ```yaml
-name: Aceeys
+name: Janssen
 occupation: BSIT Student
 location: Philippines
 interests:
@@ -35,15 +35,25 @@ mood: Depends on the compiler
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,cs,mysql,git,github,vscode,figma&theme=dark" />
 </p>
 
-### 03 / GITHUB ANALYTICS
+### 03 / BEHIND THE CODE
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aceeys&show_icons=true&hide_border=true&bg_color=09090b&title_color=e4e4e7&text_color=a1a1aa&icon_color=71717a" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A1A1AA&center=true&vCenter=true&width=600&lines=Curiosity+over+comfort.;Creating+things+that+probably+need+debugging.;Still+learning.+Still+building.;Yes%2C+it+works+on+my+machine." />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aceeys&layout=compact&hide_border=true&bg_color=09090b&title_color=e4e4e7&text_color=a1a1aa" />
+<br/>
+
+**Not the best developer in the room.**
+
+*Just the one who refuses to leave until the error disappears.*
+
+<br/>
+
+`DESIGN` &nbsp;·&nbsp; `DEVELOP` &nbsp;·&nbsp; `BREAK` &nbsp;·&nbsp; `REPEAT`
 
 </div>
+
+---
 
 ### 04 / CURRENTLY
 
