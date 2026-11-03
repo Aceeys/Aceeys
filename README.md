@@ -1,7 +1,12 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=janssen.&fontColor=e4e4e7&fontSize=48&fontAlignY=55&animation=fadeIn" width="100%" />
+<div align="center">
 
+# J A N S S E N
+
+<sub>INDEPENDENTLY THINKING. CONSTANTLY LEARNING.</sub>
+
+</div>
 ### `somewhere between logic and chaos`
 
 *Figuring things out, one mistake at a time.*
