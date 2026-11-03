@@ -45,10 +45,10 @@ status: Under development
 
 ### 03 / CURRENTLY
 
-- Learning at my own pace.
-- Working on things behind the scenes.
-- Making progress, even when it doesn't look like it.
-- Occasionally questioning my life choices.
+- Making mistakes with confidence.
+- Quietly overcomplicating simple things.
+- Progressing, allegedly.
+- Excellence is loading. Please wait.
 
 ---
 
