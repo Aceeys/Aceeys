@@ -4,7 +4,7 @@
 
 # J A N S S E N
 
-<sub>INDEPENDENTLY THINKING. CONSTANTLY LEARNING.</sub>
+<sub>INDEPENDENTLY THINKING. ALWAYS TIRED.</sub>
 
 </div>
 ### `somewhere between logic and chaos`
