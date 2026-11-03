@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:09090b,50:18181b,100:27272a&text=ACEEYS&fontColor=e4e4e7&fontSize=65&fontAlignY=50&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=janssen.&fontColor=e4e4e7&fontSize=48&fontAlignY=55&animation=fadeIn" width="100%" />
 
 ### `somewhere between logic and chaos`
 
