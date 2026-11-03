@@ -1,23 +1,35 @@
-```html
-<h1 align="center">JANSSEN</h1>
-
+```{=html}
+<h1 align="center">
+```
+J A N S S E N
+```{=html}
+</h1>
+```
+```{=html}
+<hr>
+```
+```{=html}
 <p align="center">
-  NO IDEA. JUST COMMITTING.
+```
+`<sub>`{=html}NO IDEA. JUST COMMITTING.`</sub>`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-
-### `somewhere between logic and chaos`
-
-<i>Figuring things out, one mistake at a time.</i>
-
+```
+`<code>`{=html}somewhere between logic and chaos`</code>`{=html}
+`<br>`{=html} `<i>`{=html}Figuring things out, one mistake at a
+time.`</i>`{=html}
+```{=html}
 </p>
-
----
-
+```
+```{=html}
+<hr>
+```
 ### 01 / INTRODUCTION
 
-```yaml
+``` yaml
 name: Pierce Janssen
 currently: Broke
 interests: Scented Alcohol
@@ -27,26 +39,44 @@ status: Under development
 
 ### A LITTLE SOMETHING
 
+```{=html}
 <p align="center">
-  <code>Currently exploring, learning, and building.</code>
+```
+`<samp>`{=html}Quietly working on something.`</samp>`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,cs,mysql,git,github" />
+```
+`<i>`{=html}Not everything needs to be figured out.`</i>`{=html}
+```{=html}
 </p>
-
----
-
+```
+```{=html}
+<p align="center">
+```
+`<code>`{=html}less noise. more substance.`</code>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<hr>
+```
 ### 03 / CURRENTLY
 
-- Making mistakes with confidence.
-- Quietly overcomplicating simple things.
-- Progressing, allegedly.
-- Excellence is loading. Please wait.
+-   Making mistakes with confidence.
+-   Quietly overcomplicating simple things.
+-   Progressing, allegedly.
+-   Excellence is loading. Please wait.
 
----
-
+```{=html}
+<hr>
+```
+```{=html}
 <p align="center">
-  <sub>Well, this is an unnecessary amount of curiosity.</sub>
+```
+Well, this is an unnecessary amount of curiosity.
+```{=html}
 </p>
 ```
